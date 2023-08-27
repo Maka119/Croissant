@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(245, 122, 142);
+  text-align: center;
+}
+
+a {
+  color: bisque;
+}
+
+h1 {
+  color: brown;
+  text-shadow: 2px white;
+}
+p {
+  font-size: 30px;
+}
+
+footer a {
+  margin: 20px;
+  cursor: pointer;
+  font-size: 30px;
+}
